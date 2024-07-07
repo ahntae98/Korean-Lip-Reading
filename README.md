@@ -39,12 +39,27 @@
 
 → 현재 데이터 량 : 12음절 * 6(원본 + augmentation) * 10(이미지 개수) * 51셋(Val : 40개 + Test : 10개) = 36720개 (6.5)
 
+● 추출한 데이터 라벨링
+
+![라벨링](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/cc72a1a5-b5e9-479a-b774-8a3a2127c8da)
+
+● Depth 카메라와 68-Landmarks를 활용해 입술 부분만 추출
+
+![입술추출](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/4829fb99-333b-490c-a459-2af444d24b6d)
+
+
 ## 결과
 ※ 과적합 방지 파라미터 적용 후 학습 결과
 
 ![학습완료 - 얼리 스타핑 적용](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/aa0503d3-8aa4-419e-b697-19debf008651)
 
-※ 5-fold cross validation 적용 결과
+※ 5-fold cross validation 적용 결과 (폴드 1,3,5)
+
+![폴드1](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/bd8ee45c-c265-43c6-a434-53c5c3f9ed58)
+
+![폴드3](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/826c3209-5355-42db-9401-565151e57871)
+
+![폴드5](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/31019f1a-3d4f-4cd7-854b-b4ebe7972fc7)
 
 
 ※ Accrucay 향상
