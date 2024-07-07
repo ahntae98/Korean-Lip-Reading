@@ -44,6 +44,8 @@
 
 ![학습완료 - 얼리 스타핑 적용](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/aa0503d3-8aa4-419e-b697-19debf008651)
 
+※ 5-fold cross validation 적용 결과
+
 
 ※ Accrucay 향상
 
