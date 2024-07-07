@@ -44,7 +44,6 @@
 ![학습완료 - 얼리 스타핑 적용](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/aa0503d3-8aa4-419e-b697-19debf008651)
 
 ※ Accrucay 향상
-
 ![초기 테스트 결과](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/a261096b-052d-46b3-beee-99b1b8926564) 
 ![최종 테스트 결과](https://github.com/ahntae98/Korean-Lip-Reading/assets/133379277/cceba588-5a92-4af3-a771-eaffbd1522dc)
 
